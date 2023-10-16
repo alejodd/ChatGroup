@@ -1,5 +1,5 @@
 # ChatGroup
-a AD Soft solution for chating with our friends or use in our Workspace. [totally free of third parties]
+A AD Soft solution for chating with our friends or use in our Workspace. [totally free of third parties]
 
 These programs consume a minimum amount of resources, Save your PC's true potential for gaming.
 
